@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="cp7tHRRaldd4JaEKWIFi">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xtiAzq9gahQLsiEJXALs-1" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" value="" vertex="1">
+          <mxGeometry height="300" width="20" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-2" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Kiosk Interface" vertex="1">
+          <mxGeometry height="300" width="100" x="220" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-17" parent="xtiAzq9gahQLsiEJXALs-2" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="230" width="20" x="40" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-3" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Ticket Service" vertex="1">
+          <mxGeometry height="300" width="100" x="350" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-8" parent="xtiAzq9gahQLsiEJXALs-3" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="210" width="20" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-4" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Ticket Database" vertex="1">
+          <mxGeometry height="300" width="100" x="630" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-14" parent="xtiAzq9gahQLsiEJXALs-4" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="50" width="20" x="40" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-5" parent="1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Payment Service" vertex="1">
+          <mxGeometry height="300" width="100" x="490" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-11" parent="xtiAzq9gahQLsiEJXALs-5" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="" vertex="1">
+          <mxGeometry height="90" width="20" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="Customer" vertex="1">
+          <mxGeometry height="30" width="60" x="120" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-7" edge="1" parent="1" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=5;entryPerimeter=0;" value="&lt;div&gt;Requests purchase&lt;/div&gt;&amp;lt;&amp;lt;Purchase info&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;gt;&amp;gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;lt;&amp;lt;Ticket Details&amp;gt;&amp;gt;&lt;/span&gt;&lt;/div&gt;">
+          <mxGeometry relative="1" width="160" x="0.0805" y="30" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="129.5" y="300" as="sourcePoint" />
+            <mxPoint x="260" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-10" edge="1" parent="1" source="xtiAzq9gahQLsiEJXALs-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-20;fontSize=12;" value="&lt;div&gt;Returns ticket&lt;/div&gt;&lt;div&gt;purchase status&lt;/div&gt;&amp;lt;&amp;lt;Ticket Details&amp;gt;&amp;gt;&lt;div&gt;&amp;lt;&amp;lt;Confirmation&amp;gt;&amp;gt;&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.0909" y="-5" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="335" y="460" />
+            </Array>
+            <mxPoint x="280" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-9" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=50;fontSize=12;startSize=8;endSize=8;" target="xtiAzq9gahQLsiEJXALs-8" value="&lt;div&gt;Sends purchase&amp;nbsp;&lt;/div&gt;&lt;div&gt;information&lt;/div&gt;&amp;lt;&amp;lt;Purchase info&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="0.0909" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points" />
+            <mxPoint x="280" y="320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-13" edge="1" parent="1" source="xtiAzq9gahQLsiEJXALs-11" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-10;fontSize=12;" target="xtiAzq9gahQLsiEJXALs-8" value="&lt;div&gt;Returns payment&amp;nbsp;&lt;/div&gt;&lt;div&gt;status&lt;/div&gt;&amp;lt;&amp;lt;Confirmation&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="360" />
+            </Array>
+            <mxPoint x="450" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-12" edge="1" parent="1" source="xtiAzq9gahQLsiEJXALs-8" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=20;fontSize=12;startSize=8;endSize=8;" target="xtiAzq9gahQLsiEJXALs-11" value="&lt;div&gt;Performs transaction&lt;/div&gt;&amp;lt;&amp;lt;Payment Info&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="340" />
+            </Array>
+            <mxPoint x="450" y="300" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-15" edge="1" parent="1" source="xtiAzq9gahQLsiEJXALs-8" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=20;fontSize=12;startSize=8;endSize=8;" target="xtiAzq9gahQLsiEJXALs-14" value="&lt;div&gt;Update Ticket entry&lt;/div&gt;&amp;lt;&amp;lt;Ticket details&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="440" />
+            </Array>
+            <mxPoint x="600" y="400" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xtiAzq9gahQLsiEJXALs-18" edge="1" parent="1" source="xtiAzq9gahQLsiEJXALs-17" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontSize=12;curved=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" target="xtiAzq9gahQLsiEJXALs-1" value="&lt;div&gt;Displays ticket&lt;/div&gt;&lt;div&gt;confirmation&lt;/div&gt;&amp;lt;&amp;lt;Ticket details&amp;gt;&amp;gt;&lt;div&gt;&amp;lt;&amp;lt;Confirmation&amp;gt;&amp;gt;&lt;/div&gt;">
+          <mxGeometry relative="1" width="160" x="0.0728" y="-35" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="310" y="400" as="sourcePoint" />
+            <mxPoint x="470" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
